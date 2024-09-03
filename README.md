@@ -1,16 +1,13 @@
-## Hi there 👋
+# Why Not To Study？
+## Intro 
+* 计科在读大学生
+* 偶尔打🏀，也喜欢📸
+* 什么都会一点，什么都会的不多
+* 了解一些深度学习相关知识，目前在学习计算机视觉方向内容，完成了cs231n课程，可能会以目标检测为主要方向
+## Plan
+* ~不读研还有出路吗orz~
+* 首先多看看论文吧
+* 然后能接触一下CV方向的项目吧，给读研铺路
+* 再自己做个东西用到相机上
+* **已往不谏 来者可追**
 
-<!--
-**Whynottostudy/Whynottostudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
